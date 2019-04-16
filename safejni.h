@@ -1,6 +1,7 @@
 /* 
  * SafeJNI is licensed under MIT licensed. See LICENSE.md file for more information.
  * Copyright (c) 2014 MortimerGoro
+ * Copyright (c) 2019 xqyphp
 */
 
 #pragma once
